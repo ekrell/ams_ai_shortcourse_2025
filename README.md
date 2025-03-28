@@ -20,21 +20,17 @@ Finally, we will discuss model interpretation through explainable AI (XAI) techn
 
 ## Authors (and their AMS talks)
 
-- [Evan Krell](https://ekrell.github.io/), `ekrell@islander.tamucc.edu`
-  - [Hierarchical Superpixel Explanations Improve XAI Attribution Methods for Geospatial Models ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/448846)
+- [Evan Krell](https://ekrell.github.io/), `evankrell730@gmail.com`
 - [Kara D. Lamb](https://kdlamb.github.io/), `kl3231@columbia.edu`
-  - [CLOUDPHYS Discovering a Model for Depositional Ice Growth from Observations Using Neural Ordinary Differential Equations and Symbolic Regression ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457671)
-  - [CLOUDPHYS A Differentiable Framework to Reduce Structural and Parametric Uncertainty in Cloud Microphysics Parameterizations Online ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457779)
 - Praveen Singh, `praveen.singh@noaa.gov`
 - [Christian Duff](https://www.linkedin.com/in/christian-duff-898103211/), `cduff4@islander.tamucc.edu`
-  - [AI Using Continuous Rank Probability Score Multi-Model Ensemble Machine Learning Method to Quantify Aleatoric and Epistemic Uncertainty for Improvement of Cold-Stunning Predictions ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/455246)
 
 ## Agenda
 
 | **Topic**     |  **Materials**                                               | **Instructor**  |
 |---------------| -------------------------------------------------------------|-----------------|
 | Introduction |  [slides](AMSAI2025_Intro.pdf)                                | Evan Krell      |
-| Imbalanced data | [notebook](AMSAI2025_DataBalance.ipynb)                      | Praveen Singh   |
+| Imbalanced data | [notebook](AMSAI2025_DataBalance.ipynb)                    | Praveen Singh   |
 | Hyperparameter tuning | [notebook](AMSAI2025_HyperparameterTuning.ipynb)     | Christian Duff  | 
 | Model evaluation | [notebook](AMSAI2025_Evaluation.ipynb)                    | Evan Krell      |
 | Explainable AI | [notebook](AMSAI2025_XAI.ipynb)                             | Evan Krell      | 
