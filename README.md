@@ -1,4 +1,4 @@
-# Intermediate Machine Learning in Python for Environmental Science Problems
+# Python Machine Learning for Environmental Science
 
 A one-day short course presented at the [American Meteorological Society (AMS) Annual Meeting 2025](https://annual.ametsoc.org/index.cfm/2025/)
 
